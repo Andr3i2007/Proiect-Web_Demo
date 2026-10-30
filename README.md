@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center" style="background-color: #26589b; color: white; padding: 25px; border-radius: 12px;">
 
 # Hi, I'm Rotaru Andrei 👋
 
