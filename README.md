@@ -42,7 +42,7 @@
 
 ## 📫 Contact
 
-- GitHub: [@Andr3i2007](https://github.com/YOUR_USERNAME)
+- GitHub: [@Andr3i2007](https://github.com/Andr3i2007)
 
 ---
 
