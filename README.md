@@ -1,4 +1,4 @@
-<img src="Kanye.jpg" height="100%" width="80%"/>
+<img src="Kanye1.png" height="100%" width="80%"/>
 <div align="center">
 
 # Hi, I'm Rotaru Andrei 👋
