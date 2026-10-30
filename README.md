@@ -3,7 +3,9 @@
 
 # Hi, I'm Rotaru Andrei 👋
 
-### Developer | Tech Enthusiast | Lifelong Learner
+### Student | Tech Enthusiast | Lifelong Learner
+
+### USV | FIESC | Computers-Dual | Romania
 
 *Building things, learning new technologies and improving every day.*
 
